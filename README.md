@@ -1,5 +1,3 @@
-# default
-
 Hey,
 
 Cloud Specialist and Microsoft systems administrator.
